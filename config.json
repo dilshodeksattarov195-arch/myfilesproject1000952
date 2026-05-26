@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperponnect",
+        "uuid": 1482264,
+        "checksum": "5vypdh"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
